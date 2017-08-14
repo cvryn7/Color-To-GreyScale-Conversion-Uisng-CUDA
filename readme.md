@@ -1,0 +1,1 @@
+<h2>Converted Colored Image to Grey Scale using CUDA and C++</h2>
